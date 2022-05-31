@@ -27,5 +27,5 @@ function calculateProduct() {
 
 	
   	// return the sum or product of the numbers back to html
-  	document.getElementById('display-results').innerHTML = "The factorial of your  positive integers is = " + facAnswer
+  	document.getElementById('display-results').innerHTML = "The factorial of your  positive integer is = " + facAnswer
 }
